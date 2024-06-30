@@ -1,0 +1,11 @@
+Insight,Value
+Total seats won by all parties,538
+Party with the highest seats,Bharatiya Janata Party - BJP
+Party with the lowest seats,Indian Union Muslim League - IUML
+Top 5 parties by seats,"['Bharatiya Janata Party - BJP', 'Indian National Congress - INC', 'Samajwadi Party - SP', 'All India Trinamool Congress - AITC', 'Dravida Munnetra Kazhagam - DMK']"
+Percentage of total seats won by each party,"[44.61, 18.40, 6.88, 5.39, 4.09, 2.79, 2.42, 1.86, 1.30, 1.12, 0.93, 0.93, 0.74, 0.74, 0.56, 0.56, 0.37, 0.37, 0.19, 0.19, 0.19, 0.19, 0.19, 0.19]"
+Comparison of top 3 parties,"[['Bharatiya Janata Party - BJP', 240], ['Indian National Congress - INC', 99], ['Samajwadi Party - SP', 37]]"
+Parties winning more than 10% of total seats,"['Bharatiya Janata Party - BJP', 'Indian National Congress - INC']"
+Distribution of seats among all parties,"{'count': 24, 'mean': 22.42, 'std': 47.53, 'min': 1, '25%': 1, '50%': 4, '75%': 22, 'max': 240}"
+Median seats won by parties,4
+Mean seats won by parties,22.42
